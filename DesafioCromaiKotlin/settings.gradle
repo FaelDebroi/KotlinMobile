@@ -1,0 +1,2 @@
+rootProject.name = "DesafioCromaiKotlin"
+include ':app'
